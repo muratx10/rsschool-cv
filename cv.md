@@ -18,7 +18,7 @@
 
 ___
 
-I am passionate about developing web-applications and interested in improving my skills in this direction, in exploring modern technologies. I am a highly-motivated, quick learning, hard-working, goal-oriented & reliable person who always busy doing something (reading web technology related articles, programming, improving English, online-courses). Currently I’m focused on extending my skills and priority goal is to start a Front-End Developer career.
+I am passionate about developing web-applications and interested in improving my skills in this direction, in exploring modern technologies. I am a highly-motivated, self-managed, quick learning, hard-working, goal-oriented & reliable person who always busy doing something (reading web technology related articles, programming, improving English, online-courses). Currently I’m focused on extending my skills and priority goal is to start a Front-End Developer career.
 ___
 
 
@@ -124,6 +124,24 @@ ___
 * CSS3
 * JS (jQuery library)
 * Responsive and adaptive layout
+___
+## **PRESENT WORK:**
+**Company name:** ALC "PrivatConsult"
+
+**Position:** auditor
+
+**Period:** 22.07.2018 - pres.
+
+**Main responsibilities:** 
+
+* Conducting financial audits
+* Evaluation of the effectiveness and internal control systems of financial and economic activities
+* Making recommendations for improving business processes
+* Drawing up reports and conclusions on their results, consulting clients
+
+**Achievements:** 
+
+* In a short time figured out in the field of accounting and tax legislation of the Republic of Belarus
 
 
 
