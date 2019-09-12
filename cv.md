@@ -16,10 +16,11 @@
 
 **Twitter:** [profile link](https://twitter.com/muratx10)
 
-___
+_____
 
 I am passionate about developing web-applications and interested in improving my skills in this direction, in exploring modern technologies. I am a highly-motivated, self-managed, quick learning, hard-working, goal-oriented & reliable person who always busy doing something (reading web technology related articles, programming, improving English, online-courses). Currently I’m focused on extending my skills and priority goal is to start a Front-End Developer career.
-___
+
+_____
 
 
 ## **HARD SKILLS**
@@ -53,7 +54,8 @@ ___
   * macOS
   * Linux
   * Windows
-___
+
+____
 
 
 ## **SOFT SKILLS:**
@@ -67,7 +69,8 @@ ___
 * Good sense of humour 😅
 * Empathy
 * Friendliness
-___
+
+____
 
 ## **EDUCATION:**
 
@@ -112,7 +115,8 @@ ___
 * Basics of JavaScript
 
 ### Bachelor's degree of Business Administration and Management at Brest State A.S. Pushkin University, BELARUS
-___
+
+____
 
 ## **EXPERIENCE / PROJECTS related with FRONTEND DEVELOPMENT**
 
@@ -156,7 +160,8 @@ missed([1, 3, 2, -1]) // 0
 * CSS3
 * JS (jQuery library)
 * Responsive and adaptive layout
-___
+
+____
 
 
 ## **PRESENT WORK:**
@@ -178,5 +183,6 @@ ___
 
 * In a short time figured out in the field of accounting and tax legislation of the Republic of Belarus
 
-___
+____
+
 \*** _Had performed military service (staff sergeant)_
