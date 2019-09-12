@@ -1,4 +1,4 @@
-# Junior Frontend Developer CV
+# **Junior Frontend Developer CV**
 
 ![CV Photo](cv.png)
 # Shirmurad AKMAMEDAU
@@ -110,6 +110,32 @@ ___
 ___
 ## **EXPERIENCE / PROJECTS related with FRONTEND DEVELOPMENT**
 
+#### Latest code example:
+```
+function missed(arr) {
+    let originalArr = [];
+    let sortedArr = arr.sort((a, b) => {
+        return a - b;
+    });
+    for (let i = sortedArr[0]; i < sortedArr[arr.length - 1]; i++) {
+        originalArr.push(i);
+    };
+
+    let flag = true;
+    originalArr.forEach((element, i) => {
+        if (flag && element !== arr[i]) {
+            flag = false;
+            return console.log(element);
+        }
+    });
+};
+
+missed([0, 1, 3]) // 2
+missed([-2, 0, 1, 2]) // -1
+missed([1, 3, 2, -1]) // 0
+```
+
+
 ### [Calculator using CoreJS](https://muratx10.github.io/calculator/)
 * CoreJS (ES6)
 * Webpack 4
@@ -145,10 +171,3 @@ ___
 
 ___
 \*** _Had performed military service (staff sergeant)_
-
-
-
-
-
-
-
