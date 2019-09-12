@@ -10,7 +10,7 @@
 
 **Github:** [muratx10](https://github.com/muratx10?tab=repositories)
 
-**LinkedIn:** [profile link](https://www.linkedin.com/in/shirmurat-akmamedau-585b94181/)
+**LinkedIn:** [profile link](https://www.linkedin.com/in/murad-akmamedau/)
 
 **Skype:** [profile link](https://join.skype.com/invite/biA4mt7PokXd)
 
