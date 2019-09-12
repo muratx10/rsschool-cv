@@ -66,7 +66,7 @@ ___
 ___
 ## **EDUCATION:**
 
-## Modern JavaScript (from Novice to Ninja) at [udemy.com](https://www.udemy.com/modern-javascript-from-novice-to-ninja/learn/lecture/14241500#overview) _(online)_
+### Modern JavaScript (from Novice to Ninja) at [udemy.com](https://www.udemy.com/modern-javascript-from-novice-to-ninja/learn/lecture/14241500#overview) _(online)_
 * ES6+ 
 * Object-oriented programming with JavaScript
 * Prototypes & Classes
@@ -74,7 +74,7 @@ ___
 * Real-time databases
 * Webpack & Babel
 
-## Intensive course of JavaScript for Front-end Developers from [Dmitry Lavrik](http://dmitrylavrik.ru/) _(online)_
+### Intensive course of JavaScript for Front-end Developers from [Dmitry Lavrik](http://dmitrylavrik.ru/) _(online)_
 * ES6+
 * Object-oriented programming with JavaScript
 * Asynchronous code
@@ -82,14 +82,14 @@ ___
 * Basics of React, JSX and Mobx
 * Webpack & Babel
 
-## Intensive course of JavaScript for HTML Coders from [Dmitry Lavrik](http://dmitrylavrik.ru/) _(online)_
+### Intensive course of JavaScript for HTML Coders from [Dmitry Lavrik](http://dmitrylavrik.ru/) _(online)_
 * Basic JavaScript 
 * DOM
 * jQuery
 * Webpack.
 * Gulp
   
-## JavaScript Advanced Level course at Educational Center of HTP _(offline)_
+### JavaScript Advanced Level course at Educational Center of HTP _(offline)_
 * Basics of JavaScript
 * Prototypes & Classes
 * DOM
@@ -99,18 +99,18 @@ ___
 * Canvas
 * MVC Pattern
 
-## HTML, CSS & JavaScript course at Educational Center of HTP _(offline)_
+### HTML, CSS & JavaScript course at Educational Center of HTP _(offline)_
 
 * HTML5
 * CSS3
 * BEM Methodology
 * Basics of JavaScript
 
-## Bachelor's degree of Business Administration and Management at Brest State A.S. Pushkin University, BELARUS
+### Bachelor's degree of Business Administration and Management at Brest State A.S. Pushkin University, BELARUS
 ___
 ## **EXPERIENCE / PROJECTS related with FRONTEND DEVELOPMENT**
 
-## [Calculator using CoreJS](https://muratx10.github.io/calculator/)
+### [Calculator using CoreJS](https://muratx10.github.io/calculator/)
 * CoreJS (ES6)
 * Webpack 4
 * Babel
@@ -118,7 +118,7 @@ ___
 * HTML5
 * ESLint
 
-## [Dental Office Website (course project)](https://muratx10.github.io/FD1-course-project/)
+### [Dental Office Website (course project)](https://muratx10.github.io/FD1-course-project/)
 * 1st project in Frontend development
 * HTML5
 * CSS3
