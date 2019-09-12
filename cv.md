@@ -23,6 +23,7 @@ ___
 
 
 ## **HARD SKILLS**
+
 * **HUMAN LANGUAGES:** 
    * **English:** Speaking A2+, Writing B1
    * **Russian:** fluent as native
@@ -53,6 +54,7 @@ ___
   * Linux
   * Windows
 ___
+
 
 ## **SOFT SKILLS:**
 
@@ -111,6 +113,7 @@ ___
 
 ### Bachelor's degree of Business Administration and Management at Brest State A.S. Pushkin University, BELARUS
 ___
+
 ## **EXPERIENCE / PROJECTS related with FRONTEND DEVELOPMENT**
 
 #### Latest code example:
@@ -154,6 +157,7 @@ missed([1, 3, 2, -1]) // 0
 * JS (jQuery library)
 * Responsive and adaptive layout
 ___
+
 
 ## **PRESENT WORK:**
 
