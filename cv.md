@@ -53,7 +53,9 @@ ___
   * Linux
   * Windows
 ___
+
 ## **SOFT SKILLS:**
+
 * Self-managed & highly motivated
 * Fast learner
 * Verbal communication
@@ -64,6 +66,7 @@ ___
 * Empathy
 * Friendliness
 ___
+
 ## **EDUCATION:**
 
 ### Modern JavaScript (from Novice to Ninja) at [udemy.com](https://www.udemy.com/modern-javascript-from-novice-to-ninja/learn/lecture/14241500#overview) _(online)_
@@ -151,7 +154,9 @@ missed([1, 3, 2, -1]) // 0
 * JS (jQuery library)
 * Responsive and adaptive layout
 ___
+
 ## **PRESENT WORK:**
+
 **Company name:** ALC "PrivatConsult"
 
 **Position:** auditor
