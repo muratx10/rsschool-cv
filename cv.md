@@ -143,6 +143,9 @@ ___
 
 * In a short time figured out in the field of accounting and tax legislation of the Republic of Belarus
 
+___
+\*** _Had performed military service (staff sergeant)_
+
 
 
 
