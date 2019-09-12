@@ -1,6 +1,6 @@
 # Junior Frontend Developer CV
 
-<!-- ![CV Photo](cv.png) -->
+![CV Photo](cv.png)
 # Shirmurad AKMAMEDAU
 **Location:** Minsk, BELARUS 
 
@@ -106,7 +106,25 @@ ___
 * BEM Methodology
 * Basics of JavaScript
 
-  
+## Bachelor's degree of Business Administration and Management at Brest State A.S. Pushkin University, BELARUS
+___
+## **EXPERIENCE / PROJECTS related with FRONTEND DEVELOPMENT**
+
+## [Calculator using CoreJS](https://muratx10.github.io/calculator/)
+* CoreJS (ES6)
+* Webpack 4
+* Babel
+* CSS3 (responsive & mobile design)
+* HTML5
+* ESLint
+
+## [Dental Office Website (course project)](https://muratx10.github.io/FD1-course-project/)
+* 1st project in Frontend development
+* HTML5
+* CSS3
+* JS (jQuery library)
+* Responsive and adaptive layout
+
 
 
 
